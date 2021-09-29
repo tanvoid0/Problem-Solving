@@ -3,4 +3,4 @@ project(Problem_Solving)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Problem_Solving main.cpp)
+add_executable(Problem_Solving main.cpp input.txt)
