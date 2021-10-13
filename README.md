@@ -19,7 +19,7 @@ This has the solution followed from books, 30 Day Challenge
   ![Generic badge](https://img.shields.io/badge/New-Sieve's%20Prime%20Number-purple)
   - 1209 &nbsp;
     ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
-    ![Generic badge](https://img.shields.io/badge/Complexity-Formula%20Based-red)
+    ![Generic badge](https://img.shields.io/badge/Complexity-Formula%20Based-yellow)
 
   - 1264 &nbsp;
   ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
@@ -36,5 +36,9 @@ This has the solution followed from books, 30 Day Challenge
   - 1001 &nbsp;
     ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
     ![Generic badge](https://img.shields.io/badge/New-Vector,%20Random%20Number-purple)
+  - 1008 &nbsp;
+    ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
+    ![Generic badge](https://img.shields.io/badge/Complexity-Formula%20Based-yellow)
+    ![Generic badge](https://img.shields.io/badge/New-Snake%20Matrix-purple)
 ## Chapter 3
 **Exercise**
