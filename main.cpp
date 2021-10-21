@@ -1,17 +1,44 @@
 /**
- * 1.1^2 + 2.3^2 + 3.5^2 + .... up to nth term.
+ * 1
+ * 1    2
+ * 1    2   3
+ * 1    2   3   4
+ * 1    2   3   4   5
  */
 #include <bits/stdc++.h>
 using namespace std;
 
-int solve(int i) {
-  if(i <= 1) return 1;
-  return (i*2-1)*(i*2-1) + solve(i-1);
+int N = 5;
+void recursion2(int i, int j){
+    if(j>i){
+        printf("\n");
+        return;
+    }
+    printf("%4d", j);
+    recursion2(i, j+1);
 }
 
+void recursion1(int i){
+    if(i>N) return;
+    recursion2(i, 1);
+}
+//
+//void recursion2(int i, int j){
+//    if(j > i) {
+//        printf("\n");
+//        return;
+//    };
+//    printf("%4d", j);
+//    recursion2(i, j+1);
+//}
+//
+//void recursion1(int i) {
+//    if(i > N) return;
+//    recursion2(i, 1);
+//}
+
 int main() {
-  int n;
-  cin >> n;
-  cout << solve(n);
+//  cin >> N;
+  recursion1(1);
   return 0;
 }
