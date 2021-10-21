@@ -5,13 +5,13 @@
 using namespace std;
 
 int solve(int i) {
-  if(i <= 1) return 1;
-  return (i*2-1)*(i*2-1) + solve(i-1);
+    if(i <= 1) return 1;
+    return i*(i*2-1)*(i*2-1) + solve(i-1);
 }
 
 int main() {
-  int n;
-  cin >> n;
-  cout << solve(n);
-  return 0;
+    int n;
+    cin >> n;
+    cout << solve(n);
+    return 0;
 }

@@ -1,12 +1,12 @@
 /**
- * 1.1^2 + 2.3^2 + 3.5^2 + .... up to nth term.
+ * 2 + 4 + 6 + 8 + .... up to nth term.
  */
 #include <bits/stdc++.h>
 using namespace std;
 
 int solve(int i) {
   if(i <= 1) return 1;
-  return (i*2-1)*(i*2-1) + solve(i-1);
+  return 2*i + solve(i-1);
 }
 
 int main() {
