@@ -47,6 +47,9 @@ This has the solution followed from books, 30 Day Challenge
     ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
     ![Generic badge](https://img.shields.io/badge/Complexity-Easy-<>)
     ![Generic badge](https://img.shields.io/badge/New-c++%20precision-purple)
-
+  - 1053 &nbsp;
+    ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
+    ![Generic badge](https://img.shields.io/badge/Complexity-Easy-<>)
+    ![Generic badge](https://img.shields.io/badge/New-c++%20sort%20library-purple)
 ## Chapter 3
 **Exercise**
