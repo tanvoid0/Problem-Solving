@@ -40,5 +40,9 @@ This has the solution followed from books, 30 Day Challenge
     ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
     ![Generic badge](https://img.shields.io/badge/Complexity-Formula%20Based-yellow)
     ![Generic badge](https://img.shields.io/badge/New-Snake%20Matrix-purple)
+  - 1010 &nbsp;
+    ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
+    ![Generic badge](https://img.shields.io/badge/Complexity-Formula%20Based-yellow)
+    ![Generic badge](https://img.shields.io/badge/New-Chess%20Board-purple)
 ## Chapter 3
 **Exercise**
