@@ -43,6 +43,10 @@ This has the solution followed from books, 30 Day Challenge
   - 1015 &nbsp;
     ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
     ![Generic badge](https://img.shields.io/badge/Complexity-Statement%20Based-yellow)
+  - 1022 &nbsp;
+    ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
+    ![Generic badge](https://img.shields.io/badge/Complexity-Easy-<>)
+    ![Generic badge](https://img.shields.io/badge/New-c++%20precision-purple)
 
 ## Chapter 3
 **Exercise**
