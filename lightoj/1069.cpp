@@ -1,9 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void solve(int i, int j){
-
-}
 
 int main() {
     int T; cin >> T;
@@ -15,7 +12,6 @@ int main() {
         // 2. Current Floor -> Ground Floor + Exit The lift + 3 Open The lift
         time += 4*a + 5 + 3;
         cout << "Case " << i << ": " << time << endl;
-
     }
     return 0;
 }
