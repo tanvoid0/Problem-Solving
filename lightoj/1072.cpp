@@ -12,7 +12,7 @@ int main()
         cin >> R >> n;
         double r = (R * sin(pi / n * 1.0)) / (1 + sin(pi / n * 1.0));
         cout << "Case " << i << ": " << fixed << setprecision(10) << r << endl;
-//        printf("Case %d: %.10lf\n", i, r);
+        //        printf("Case %d: %.10lf\n", i, r);
     }
     return 0;
 }
