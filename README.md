@@ -51,5 +51,17 @@ This has the solution followed from books, 30 Day Challenge
     ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
     ![Generic badge](https://img.shields.io/badge/Complexity-Easy-<>)
     ![Generic badge](https://img.shields.io/badge/New-c++%20sort%20library-purple)
+  - 1069 &nbsp;
+    ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
+    ![Generic badge](https://img.shields.io/badge/Complexity-Easy-<>)
+  
+  - 1072 &nbsp;
+    ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
+    ![Generic badge](https://img.shields.io/badge/Complexity-Formula%20Based-yellow)
+    ![Generic badge](https://img.shields.io/badge/New-c++%20precision%20library-purple)
+  - 1107 &nbsp;
+    ![Generic badge](https://img.shields.io/badge/Status-Accepted-<>)
+    ![Generic badge](https://img.shields.io/badge/Complexity-Easy-<>)
+    ![Generic badge](https://img.shields.io/badge/New-2D%20Grid-purple)
 ## Chapter 3
 **Exercise**
